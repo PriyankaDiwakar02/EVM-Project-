@@ -1,0 +1,75 @@
+💻 Arduino Code
+
+🔧 Smart Electronic Voting Machine (EVM)
+
+«Arduino source code for controlling the Smart Electronic Voting Machine, including authentication, voting, feedback, and vote management.»
+
+---
+
+📂 Project Files
+
+File| Description
+"EVM_Project.ino"| ⚙️ Main Arduino program
+"libraries.txt"| 📚 Required Arduino libraries
+
+---
+
+✨ Features
+
+🔐 Fingerprint Authentication
+Secure voter authentication using a fingerprint sensor.
+
+🎤 Voice Guidance
+Provides voice-based instructions throughout the voting process.
+
+📺 LCD Display
+Displays system messages, instructions, and voting status.
+
+🗳️ Vote Recording
+Records the candidate selected by the authorized voter.
+
+🔔 Buzzer Notification
+Provides audio feedback for important system actions.
+
+📊 Vote Counting
+Keeps track of the votes recorded for each candidate.
+
+🔒 One Person, One Vote
+Prevents an authorized voter from voting more than once.
+
+---
+
+🚀 How to Upload
+
+1️⃣ Install Arduino IDE
+        ↓
+2️⃣ Open EVM_Project.ino
+        ↓
+3️⃣ Select Arduino UNO
+        ↓
+4️⃣ Connect the Arduino board
+        ↓
+5️⃣ Select the correct COM Port
+        ↓
+6️⃣ Click Upload
+
+---
+
+📝 Important Note
+
+«⚠️ Make sure all required libraries are installed before compiling and uploading the program.»
+
+«⚠️ Verify all hardware connections before powering on the EVM.»
+
+---
+
+🛠️ Development Status
+
+🚧 Project Under Development
+
+The Arduino code will be updated as the EVM project progresses and additional features are integrated.
+
+---
+
+⭐ Smart Electronic Voting Machine (EVM)
+Arduino • Embedded Systems • Secure Voting
