@@ -1,0 +1,83 @@
+<div align="center">
+
+# 💻 Source Code
+
+### 🗳️ Smart Electronic Voting Machine (EVM)
+
+*"Clean code is not just about making the system work — it's about making it understandable, maintainable, and reliable."*
+
+<img src="https://img.shields.io/badge/Language-Embedded%20C-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Platform-Arduino-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IDE-Arduino_IDE-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📖 About
+
+This directory contains the complete source code for the **Smart Electronic Voting Machine (EVM)**. The program is developed using **Embedded C** in the **Arduino IDE** and controls every core function of the system.
+
+The code is written in a modular and readable manner to make future enhancements and maintenance easier.
+
+---
+
+# 🚀 Core Functionalities
+
+| Feature | Description |
+|---------|-------------|
+| 🔐 Fingerprint Authentication | Verifies the identity of each voter |
+| 🎤 Voice Assistance | Guides the voter throughout the voting process |
+| 📺 LCD Display | Displays instructions and voting status |
+| 🗳️ Vote Recording | Securely records the selected vote |
+| 🔒 Duplicate Vote Protection | Prevents the same voter from voting twice |
+| 🔔 Buzzer Notification | Provides audio confirmation for user actions |
+| 📊 Result Generation | Displays the final voting results |
+
+---
+
+# 📂 Source Files
+
+```text
+Source_Code/
+│── EVM_Project.ino
+│── libraries.txt
+│── README.md
+```
+
+---
+
+# ⚙️ Development Environment
+
+- 💻 Arduino IDE
+- 🖥️ Embedded C
+- 🔌 Arduino UNO
+- 📚 Required Arduino Libraries
+
+---
+
+# 📌 Code Standards
+
+- ✅ Clean & Readable Code
+- ✅ Proper Comments
+- ✅ Modular Functions
+- ✅ Easy Debugging
+- ✅ Beginner Friendly
+
+---
+
+# 🚧 Upcoming Improvements
+
+- ☁️ IoT Integration
+- 📱 Mobile Monitoring
+- 😊 Face Recognition
+- 🪪 Aadhaar Verification
+- 📊 Cloud Database Support
+
+---
+
+<div align="center">
+
+### ⭐ Every line of code brings this project one step closer to a smarter and more secure voting system.
+
+</div>
