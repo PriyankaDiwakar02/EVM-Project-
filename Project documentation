@@ -1,0 +1,84 @@
+<div align="center">📚 Project Documentation
+
+🗳️ Smart Electronic Voting Machine
+
+Technical Documentation • Design • Implementation
+
+</div>---
+
+📖 Overview
+
+Welcome to the Project Documentation section of the Smart Electronic Voting Machine (EVM).
+
+This directory contains the essential documents related to the planning, design, development, implementation, and presentation of the project.
+
+---
+
+📑 Documentation
+
+<table>
+<tr>
+<th>📄 Document</th>
+<th>📌 Description</th>
+</tr><tr>
+<td>📘 <b>Project Synopsis</b></td>
+<td>Project overview, objectives, methodology, and proposed system.</td>
+</tr><tr>
+<td>📄 <b>Final Report</b></td>
+<td>Detailed documentation of the complete project and implementation.</td>
+</tr><tr>
+<td>🎤 <b>Project Presentation</b></td>
+<td>Presentation covering the project concept, design, and working.</td>
+</tr><tr>
+<td>📊 <b>Flowchart</b></td>
+<td>Visual representation of the complete system workflow.</td>
+</tr><tr>
+<td>🔌 <b>Circuit Diagram</b></td>
+<td>Detailed representation of hardware connections and components.</td>
+</tr>
+</table>---
+
+🎯 Purpose
+
+The documentation is organized to provide a clear and structured understanding of the complete EVM project.
+
+It helps explain:
+
+- 🔹 Project concept and objectives
+- 🔹 System design and architecture
+- 🔹 Hardware and software requirements
+- 🔹 Circuit connections
+- 🔹 System workflow
+- 🔹 Implementation and results
+- 🔹 Future scope and enhancements
+
+---
+
+📂 Documentation Structure
+
+Project_Documentation/
+│
+├── 📘 Project_Synopsis.pdf
+├── 📄 Final_Report.pdf
+├── 🎤 Project_Presentation.pptx
+├── 📊 Flowchart.png
+├── 🔌 Circuit_Diagram.png
+└── 📖 README.md
+
+---
+
+🚧 Documentation Status
+
+Current Status: "In Progress"
+
+The documentation will be updated as the project progresses and additional modules, features, and results are finalized.
+
+---
+
+<div align="center">⭐ Smart Electronic Voting Machine
+
+Embedded Systems | Arduino | Secure Voting
+
+From concept and design to implementation — documented in one place.
+
+</div>
