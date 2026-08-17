@@ -1,0 +1,62 @@
+<div align="center">📸 Project Gallery
+
+🗳️ Smart Electronic Voting Machine
+
+A visual journey from circuit design to a secure, working voting prototype.
+
+---
+
+🔌 Circuit & Hardware
+
+Circuit Diagram| Hardware Setup
+Complete circuit connections| Complete hardware implementation
+"circuit-diagram.png"| "hardware-setup.png"
+
+---
+
+🗳️ Voting System
+
+Prototype| Voting Process
+Working EVM prototype| Voting mechanism demonstration
+"prototype.png"| "voting-process.png"
+
+---
+
+🔐 Security & Authentication
+
+Fingerprint Authentication| 🎤 Voice Assistance
+Secure voter verification| Voice-guided voting assistance
+"fingerprint-authentication.png"| "voice-assistance.png"
+
+---
+
+📺 User Interface & Results
+
+LCD Display| 📊 Result Display
+Real-time system information| Final voting results
+"lcd-display.png"| "result-display.png"
+
+---
+
+📂 Project Images Structure
+
+images/
+│
+├── circuit-diagram.png
+├── hardware-setup.png
+├── prototype.png
+├── voting-process.png
+├── lcd-display.png
+├── fingerprint-authentication.png
+├── voice-assistance.png
+└── result-display.png
+
+---
+
+<div align="center">⚡ Built • Tested • Documented
+
+Secure • Smart • Reliable • User-Friendly
+
+</div>«📌 Note: The images will be added after the hardware implementation, testing, and final prototype demonstration.»
+
+</div>
