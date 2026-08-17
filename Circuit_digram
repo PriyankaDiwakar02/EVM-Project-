@@ -1,0 +1,120 @@
+<div align="center">🔌 Circuit Diagram
+
+Smart Electronic Voting Machine (EVM)
+
+Complete Hardware Connection & Interface Diagram
+
+</div>---
+
+📖 Overview
+
+The circuit diagram represents the complete hardware connection of the Smart Electronic Voting Machine (EVM).
+
+It shows how the Arduino UNO interfaces with the authentication, input, display, audio, and indication modules to perform the required voting operations.
+
+---
+
+🧩 Hardware Modules
+
+Module| Function
+🟢 Arduino UNO| Main controller of the system
+🔐 Fingerprint Sensor| Voter authentication
+🎙️ Voice Module| Voice instructions and guidance
+📺 LCD Display| Displays system messages and voting instructions
+🔘 Push Buttons| Candidate selection
+💡 LEDs| System status indication
+🔔 Buzzer| Audio feedback and confirmation
+
+---
+
+🔗 Connection Architecture
+
+                         ┌─────────────────────┐
+                         │ 🔐 Fingerprint      │
+                         │       Sensor        │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │                     │
+                         │    🟢 ARDUINO UNO   │
+                         │   Main Controller   │
+                         │                     │
+                         └──────────┬──────────┘
+                                    │
+             ┌──────────────────────┼──────────────────────┐
+             │                      │                      │
+             ▼                      ▼                      ▼
+      ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
+      │ 📺 LCD      │       │ 🎙️ Voice    │       │ 🔘 Push     │
+      │   Display   │       │   Module    │       │   Buttons   │
+      └─────────────┘       └─────────────┘       └──────┬──────┘
+                                                         │
+                                                         ▼
+                                                  🗳️ Candidate
+                                                     Selection
+                                   
+             ┌──────────────────────┴──────────────────────┐
+             │                                             │
+             ▼                                             ▼
+      ┌─────────────┐                              ┌─────────────┐
+      │ 💡 LEDs     │                              │ 🔔 Buzzer   │
+      │   Status    │                              │  Feedback   │
+      └─────────────┘                              └─────────────┘
+
+---
+
+⚙️ Working Relationship
+
+The hardware modules work together in the following sequence:
+
+Fingerprint Authentication
+↓
+System Access
+↓
+LCD / Voice Guidance
+↓
+Candidate Selection through Push Buttons
+↓
+Vote Recording
+↓
+Buzzer / LED Confirmation
+
+---
+
+🎯 Purpose
+
+The circuit diagram is an important reference for:
+
+- Understanding the complete hardware architecture
+- Identifying module connections
+- Building and testing the prototype
+- Troubleshooting hardware issues
+- Verifying the system before final implementation
+- Supporting future modifications and upgrades
+
+---
+
+📌 Circuit Diagram
+
+«🚧 Final circuit diagram will be added here after the complete hardware assembly and testing are finished.»
+
+Recommended file: "Circuit_Diagram.png"
+
+---
+
+⚠️ Verification Note
+
+The final circuit diagram should represent the actual pin-to-pin connections used in the physical prototype.
+
+All power, ground, signal, and communication connections should be verified before the final diagram is published.
+
+---
+
+<div align="center">🗳️ Smart Electronic Voting Machine
+
+Arduino UNO • Embedded Systems • Secure Voting
+
+Hardware Design → Integration → Testing
+
+</div>
